@@ -10,11 +10,18 @@ pkg install python
 
 pkg install git
 
-pkg install requests
+pip install requests
+
+pip install bs4
 
 git clone https://github.com/Rihan444/RBF_2.0
 
 chmod +x *
 
 python RBF2.0.py
+
+User: Rihan
+Pass: The
+
+Enjoy 🥳
 
