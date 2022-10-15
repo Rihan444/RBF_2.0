@@ -16,5 +16,5 @@ git clone https://github.com/Rihan444/RBF_2.0
 
 chmod +x *
 
-python RBF_2.0
+python RBF2.0.py
 
