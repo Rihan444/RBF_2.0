@@ -20,8 +20,8 @@ chmod +x *
 
 python RBF2.0.py
 
-User: Rihan
-Pass: The
+User: The
+Pass: Rihan
 
 Enjoy 🥳
 
