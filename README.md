@@ -16,6 +16,8 @@ pip install bs4
 
 git clone https://github.com/Rihan444/RBF_2.0
 
+cd RBF_2.0
+
 chmod +x *
 
 python RBF2.0.py
